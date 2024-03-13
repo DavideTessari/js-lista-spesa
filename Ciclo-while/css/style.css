@@ -10,12 +10,7 @@ body {
     height: 100vh;
     justify-content: center;
     gap: 100px;
+    font-size: xx-large;
+    color: blue;
+    line-height: 2;
 }
-
-/* #red {
-    color: red;
-}
-
-#green {
-    color: green;
-} */
